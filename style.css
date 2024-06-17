@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: url(./assets/pexels-pixabay-235985.jpg);
+}
+.btn{
+    height: 250px;
+    width: 250px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 30px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    font-size: 40px;
+}
+.heading2{
+    font-size: 30px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: forestgreen;
+}
+.yellow
+{
+    background-color: yellow;
+
+}
+.purple{
+    background-color: purple;
+}
+.flash{
+    background-color: white;
+}
+.user{
+    background-color: rgb(72, 193, 132);
+}
